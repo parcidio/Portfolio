@@ -1,0 +1,26 @@
+/*this are the CSS variables for the
+constant values we are using the website*/
+:root{
+	--mainColor: #15202B;
+	--secondaryColor: #192734;
+
+	--borderColor: #164D56;
+
+	--mainText: #fff;
+	--secondaryText: #eeee;
+
+	--cornerColor: #fff;
+
+	--themeDotBorder: #fff;
+	--linkColor: #17a2b8;
+	--previewBackbround: rgb(25, 39, 52, 0.8);
+	--previewShadow: #111923;
+
+	--buttonColor: #17a2b8;
+}
+
+#navigation a{
+	color: var(--mainText);
+}
+
+
