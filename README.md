@@ -3,9 +3,11 @@
 Personal website
 
 This Website is a static website made of HTML, CSS and JavaScript...
-It was initially developed based on the software development descipline, however it can be change to fit any other descipline
+It was initially developed based on the software development descipline, however it can be change to fit any other descipline.
 
-It was created to serve as a web platform on which I may present my working expirience, my skills, and project I have worked on
+It was created to serve as a web platform on which I may present my working expirience, my skills, and project I have worked on.
+
+The website mimiks the design of the MacOS
 
 _you may click here to see the demo project:_ [demo](https://parcidioandre.netlify.app/)
 
