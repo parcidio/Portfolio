@@ -9,6 +9,8 @@ It was created to serve as a web platform on which I may present my working expi
 
 _you may click here to see the demo project:_ [demo](https://parcidioandre.netlify.app/)
 
+I have used Netlify to deploy the website. It is totally free.
+
 ## Feactures
 
 Still to be add...
