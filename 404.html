@@ -1,0 +1,259 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>Parcidio's website</title>
+    <meta name="viewport" content="device-width, initial-scale=1, maximun-scale=1, minimun-scale=1">
+
+    <link href="https://fonts.googleapis.com/css2?family=Russo+One&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@500&family=Russo+One&display=swap" rel="stylesheet">
+
+
+    <!-- <link rel="stylesheet" type="text/css" href="default.css"> -->
+
+    <link rel="stylesheet" href="https://stackpath.Bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+
+    <link id="theme-style" rel="stylesheet" type="text/css" href="">
+</head>
+
+<body>
+
+    <div class="h1_top">
+        <h1>404</h1>
+    </div>
+
+
+    <div class="h1_bottom">
+        <h1>404</h1>
+    </div>
+    <div class="h1_bottom">
+        <a href="index.html">Go back</a>
+    </div>
+
+
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            height: 100vh;
+            background: radial-gradient(#1c1c1c, #0e0e0e);
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+        
+        .h1_top,
+        .h1_bottom {
+            width: 100%;
+            height: 50vh;
+        }
+        
+        .h1_top>h1 {
+            position: absolute;
+            left: 50%;
+            bottom: -223px;
+            transform: translateX(-60%);
+            text-shadow: 0px 0px 1px red;
+            animation: error_top_animation .8s linear infinite;
+        }
+        
+        @keyframes error_top_animation {
+            0% {
+                left: 50%;
+            }
+            5% {
+                left: 48%;
+                text-shadow: 5px 1px rgb(0, 68, 255);
+            }
+            /* 10% {
+                left: 50%;
+                text-shadow: 5px 1px red;
+            }
+            15% {
+                left: 50%;
+                text-shadow: 5px 1px rgb(0, 68, 255);
+            } */
+            20% {
+                left: 51%;
+                text-shadow: 5px 1px red;
+            }
+            25% {
+                left: 48%;
+                text-shadow: 5px 1px rgb(0, 68, 255);
+            }
+            30% {
+                left: 50%;
+                text-shadow: 5px 1px red;
+            }
+            /* 35% {
+                left: 50%;
+                text-shadow: 5px 1px red;
+            }
+            40% {
+                left: 50%;
+            }
+            45% {
+                left: 51%;
+                text-shadow: 5px 1px red;
+            } */
+            50% {
+                left: 50%;
+            }
+            55% {
+                left: 50%;
+            }
+            60% {
+                left: 50%;
+            }
+            65% {
+                left: 50%;
+            }
+            70% {
+                left: 43%;
+            }
+            75% {
+                left: 57%;
+            }
+            /* 80% {
+                left: 50%;
+            }
+            85% {
+                left: 50%;
+            }
+            90% {
+                left: 50%;
+            } */
+            95% {
+                left: 50%;
+            }
+            100% {
+                left: 50%;
+                text-shadow: 5px 1px rgb(0, 68, 255);
+            }
+        }
+        
+        .h1_top {
+            position: absolute;
+            top: 0;
+            overflow: hidden;
+        }
+        
+        .h1_bottom {
+            position: absolute;
+            bottom: 0;
+            overflow: hidden;
+        }
+        
+        .h1_bottom>h1 {
+            position: absolute;
+            left: 50%;
+            top: -238px;
+            transform: translateX(-60%);
+            animation: error_bottom_animation .8s linear infinite;
+        }
+        
+        @keyframes error_bottom_animation {
+            0% {
+                left: 50%;
+            }
+            5% {
+                left: 48%;
+                text-shadow: 5px 1px rgb(0, 68, 255);
+            }
+            10% {
+                left: 50%;
+                text-shadow: 5px 1px red;
+            }
+            /* 15% {
+                left: 50%;
+                text-shadow: 5px 1px rgb(0, 68, 255);
+            }
+            20% {
+                left: 51%;
+                text-shadow: 5px 1px red;
+            }
+            25% {
+                left: 48%;
+                text-shadow: 5px 1px rgb(0, 68, 255);
+            } */
+            30% {
+                left: 50%;
+                text-shadow: 5px 1px red;
+            }
+            /* 35% {
+                left: 50%;
+                text-shadow: 5px 1px red;
+            }
+            40% {
+                left: 50%;
+            }
+            45% {
+                left: 51%;
+                text-shadow: 5px 1px red;
+            } */
+            50% {
+                left: 50%;
+            }
+            55% {
+                left: 50%;
+            }
+            /* 60% {
+                left: 50%;
+            }
+            65% {
+                left: 50%;
+            }
+            70% {
+                left: 50%;
+            } */
+            75% {
+                left: 52%;
+                /* text-shadow: 5px 1px rgb(0, 68, 255); */
+            }
+            80% {
+                left: 50%;
+            }
+            85% {
+                left: 42%;
+                /* text-shadow: 5px 1px red; */
+            }
+            90% {
+                left: 50%;
+            }
+            95% {
+                left: 50%;
+            }
+            100% {
+                left: 50%;
+                text-shadow: 5px 1px rgb(0, 68, 255);
+            }
+        }
+        
+        h1 {
+            font-family: 'Roboto Mono';
+            font-size: 350px;
+            color: #fff;
+        }
+        
+        .h1_bottom>a {
+            position: absolute;
+            left: 50%;
+            top: 200px;
+            color: #fff;
+            text-decoration: none;
+            font-family: 'Roboto Mono';
+            transform: translateX(-180%);
+            background: transparent;
+            border-color: transparent;
+        }
+    </style>
+    <script type="text/javascript" src="script.js"></script>
+
+</body>
+
+</html>
