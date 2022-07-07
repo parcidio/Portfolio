@@ -1,11 +1,30 @@
 # Portfolio
+
 Personal website
 
 This Website is a static website made of HTML, CSS and JavaScript...
 It was initially developed based on the software development descipline, however it can be change to fit any other descipline
 
-It the owner of the website should have its portfolio displayed as a blog...
+It was created to serve as a web platform on which I may present my working expirience, my skills, and project I have worked on
 
 ## Feactures
 
 Still to be add...
+
+- the website changes its themes in a setted amount of time (e.g 30s)
+- visiters are able to getting contact with the owner through the contact section
+- there are links to every project ()github repository)
+
+## Site map
+
+The website consists of a single main page. Therefore, the navigation of the website happens in a single page.
+
+- Introduction
+- About
+  - more about me
+  - expirience
+  - top expertise
+  - education
+- posts and projects
+- get in touch/ contact
+- social footer
