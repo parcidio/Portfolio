@@ -26,5 +26,4 @@ The website consists of a single main page. Therefore, the navigation of the web
   - top expertise
   - education
 - posts and projects
-- get in touch/ contact
-- social footer
+-
