@@ -7,6 +7,8 @@ It was initially developed based on the software development descipline, however
 
 It was created to serve as a web platform on which I may present my working expirience, my skills, and project I have worked on
 
+_you may click here to see the demo project:_ [demo](https://parcidioandre.netlify.app/)
+
 ## Feactures
 
 Still to be add...
@@ -26,4 +28,4 @@ The website consists of a single main page. Therefore, the navigation of the web
   - top expertise
   - education
 - posts and projects
--
+- social footer
