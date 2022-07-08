@@ -11,6 +11,8 @@ The website mimiks the design of the MacOS
 
 _you may click here to see the demo project:_ [demo](https://parcidioandre.netlify.app/)
 
+I have used Netlify to deploy the website. It is totally free.
+
 ## Feactures
 
 Still to be add...
@@ -33,3 +35,5 @@ The website consists of a single main page. Therefore, the navigation of the web
 - social footer
 
 You are welcome to contribute in any way you can.
+
+You may also use this code under the MIT licence terms
