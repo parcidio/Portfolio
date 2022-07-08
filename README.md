@@ -31,3 +31,5 @@ The website consists of a single main page. Therefore, the navigation of the web
   - education
 - posts and projects
 - social footer
+
+You are welcome to contribute in any way you can.
