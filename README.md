@@ -35,3 +35,5 @@ The website consists of a single main page. Therefore, the navigation of the web
 - social footer
 
 You are welcome to contribute in any way you can.
+
+You may also use this code under the MIT licence terms
